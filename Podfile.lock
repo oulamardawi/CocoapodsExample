@@ -1,0 +1,16 @@
+PODS:
+  - NavigationDrawer (1.0.3)
+
+DEPENDENCIES:
+  - NavigationDrawer
+
+SPEC REPOS:
+  trunk:
+    - NavigationDrawer
+
+SPEC CHECKSUMS:
+  NavigationDrawer: ad87622628ed59589f8fe8e2338d27109ca51a64
+
+PODFILE CHECKSUM: 4ee356d3f53fefc13fd4aabb2cc3f380221b9bc4
+
+COCOAPODS: 1.11.3
